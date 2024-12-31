@@ -1,16 +1,19 @@
-# network_image_app
+# Flutter Network Image App
 
-A new Flutter project.
+A Flutter app that demonstrates how to load and display an image from the internet using the `NetworkImage` widget. The app shows an animated GIF fetched from a URL and displays it on the screen.
 
-## Getting Started
+## 📋 Features
 
-This project is a starting point for a Flutter application.
+- **Network Image Loading**: Displays an image fetched from the internet using the `NetworkImage` widget.
+- **Centered Layout**: The image is centered on the screen.
+- **Background Color**: The background is set to black for better contrast with the image.
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Flutter Framework**  
+- **Dart Programming Language**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/flutter-network-image-app.git
